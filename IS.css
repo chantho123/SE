@@ -1,0 +1,16 @@
+/* IS Add */
+.formInputData{
+    width: 100%;
+}
+/* InputData */
+.InputData label{
+    padding: 10px 0;
+    color: white;
+    background-color: #0F434B;
+    
+}
+.InputData input,select{
+    width: 100%;
+    height: 33px;
+}
+
